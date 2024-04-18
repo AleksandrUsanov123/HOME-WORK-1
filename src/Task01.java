@@ -1,8 +1,7 @@
 public class Task01 {
     public static void main(String[] args) {
         Sustem.out.println("Задание 1");
-        //
-        Задание 1
+        //Задание 1
         int x = 21;
         int y = 4;
         int q = x /
